@@ -4,9 +4,9 @@
 <div>
   <a href="https://github.com/stringercj12">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=stringercj12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=stringercj12&show_icons=true&title_color=dbdbdb&text_color=dbdbdb&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringercj12&layout=compact&langs_count=7&theme=dracula" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringercj12&layout=compact&langs_count=7&title_color=dbdbdb&text_color=dbdbdb&theme=radical" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jefferson-Js" height="30" width="40"
