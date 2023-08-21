@@ -29,6 +29,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Jefferson-Adonis" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+  <img align="center" alt="Jefferson-Flutter" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
 
 ##
@@ -43,6 +45,9 @@
   <a href="https://twitter.com/jefferson14489" target="_blank"><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       target="_blank"></a>
+  <a href="https://www.dio.me/users/jefferson14489" target="_blank"><img height="40"
+      src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"
+      target="_blank"> Dio</a>
 
   ![Snake animation](https://github.com/stringercj12/stringercj12/blob/output/github-contribution-grid-snake.svg)
 
