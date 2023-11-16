@@ -5,7 +5,9 @@
 <p align="left">
 Sou carioca, tenho 28 anos e tô na área de <strong>Desenvolvedor Front-End</strong>, mas tô querendo desbravar o <strong>Backend</strong> também.
 
-Me formei em Análise e Desenvolvimento de Sistemas lá na [UniCarioca](https://www.unicarioca.edu.br/) (Centro Universitário Carioca ), e agora tô na vibe de melhorar minhas skills como dev.
+Me formei em Análise e Desenvolvimento de Sistemas lá na 
+<a href="https://www.unicarioca.edu.br" title="UniCarioca" target="_blank">
+UniCarioca</a> (Centro Universitário Carioca ), e agora tô na vibe de melhorar minhas skills como dev.
 
 Tô sempre procurando por desafios e chances de aprender e crescer. Se você tá afim de trocar uma ideia, colaborar ou simplesmente compartilhar experiências, manda ver! Adoro fazer novas amizades e descobrir jeitos de deixar o mundo um lugar melhor através da programação.
 
@@ -42,7 +44,8 @@ Então, bora trocar uma ideia?
 
 <a href="https://www.dio.me/users/jefferson14489" title="Perfil na plataforma DIO" target="_blank" style="background: #0a0a0a;padding-top: 1px; padding-left: 10px;display: inline-flex;align-items: center; justify-content: center;">
 <img  height="28" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO"/>
-<img src="https://img.shields.io/badge/DIO-0a0a0a?style=for-the-badge&logoColor=white" alt="DIO"/></a>
+<img src="https://img.shields.io/badge/DIO-0a0a0a?style=for-the-badge&logoColor=white" alt="DIO"/>
+</a>
 <br>
 <br>
 <table>
