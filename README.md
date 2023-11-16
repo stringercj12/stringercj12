@@ -43,7 +43,7 @@ Então, bora trocar uma ideia?
 
 
 <a href="https://www.dio.me/users/jefferson14489" title="Perfil na plataforma DIO" target="_blank" style="background-color:#0a0a0a;padding-top: 1px; padding-left: 10px;display: inline-flex;align-items: center; justify-content: center;">
-<img  height="28" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO"/>
+<img height="28" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO"/>
 <img src="https://img.shields.io/badge/DIO-0a0a0a?style=for-the-badge&logoColor=white" alt="DIO"/>
 </a>
 <br>
