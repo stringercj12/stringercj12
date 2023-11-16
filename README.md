@@ -1,9 +1,9 @@
-## Olá, mundo! Meu nome é <strong>Jefferson Ferreira</strong>! 👋
+## E aí, beleza? Meu nome é <strong>Jefferson Ferreira</strong>! 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-E aí, beleza? Sou carioca, tenho 28 anos e tô na área de <strong>Desenvolvedor Front-End</strong>, mas tô querendo desbravar o <strong>Backend</strong> também.
+Sou carioca, tenho 28 anos e tô na área de <strong>Desenvolvedor Front-End</strong>, mas tô querendo desbravar o <strong>Backend</strong> também.
 
 Me formei em Análise e Desenvolvimento de Sistemas lá na [UniCarioca](https://www.unicarioca.edu.br/) (Centro Universitário Carioca ), e agora tô na vibe de melhorar minhas skills como dev.
 
