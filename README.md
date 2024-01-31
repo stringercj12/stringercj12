@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Sou carioca, tenho 28 anos e tô na área de <strong>Desenvolvedor Front-End</strong>, mas tô querendo desbravar o <strong>Backend</strong> também.
+Sou carioca, tenho 28 anos e estou na área de <strong>Desenvolvedor Frontend</strong>, mas estou querendo desbravar o <strong>Backend</strong> também.
 
 Me formei em Análise e Desenvolvimento de Sistemas lá na 
 <a href="https://www.unicarioca.edu.br" title="UniCarioca" target="_blank">
-UniCarioca</a> (Centro Universitário Carioca ), e agora tô na vibe de melhorar minhas skills como dev.
+UniCarioca</a> (Centro Universitário Carioca ), e agora estou na busca pela melhoraria de minhas skills como dev.
 
-Tô sempre procurando por desafios e chances de aprender e crescer. Se você tá afim de trocar uma ideia, colaborar ou simplesmente compartilhar experiências, manda ver! Adoro fazer novas amizades e descobrir jeitos de deixar o mundo um lugar melhor através da programação.
+Estou sempre procurando por desafios e chances de aprender e crescer. Se você tá afim de trocar uma ideia, colaborar ou simplesmente compartilhar experiências, manda ver! Adoro fazer novas amizades e descobrir jeitos de deixar o mundo um lugar melhor através da programação.
 
 Então, bora trocar uma ideia?
 
