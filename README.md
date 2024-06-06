@@ -27,8 +27,7 @@ Então, bora trocar uma ideia?
 ![Flutter](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=02569B)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
-![DotNet](https://img.shields.io/badge/DotNet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-fff.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
