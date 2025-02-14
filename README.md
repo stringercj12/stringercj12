@@ -26,7 +26,7 @@ Então, bora trocar uma ideia?
 ![React Native](https://img.shields.io/badge/ReactNative-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/java-fff.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![.NET](https://img.shields.io/badge/dotnet-purple.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
